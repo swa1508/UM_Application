@@ -13,4 +13,6 @@ Contents Of the Application
 7. File Upload and Download Functionality.
 8. login logout functionality.
 9. security.
-10. 
+10. Email Functionality (Simple mail, mail with template, mail with attachment)
+11. Schedular 
+12. 
