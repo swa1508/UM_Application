@@ -10,6 +10,11 @@ import com.umapp.core.service.IUserService;
 public class UserController implements IUserController {
 	
 	@Autowired
-	private IUserService userService; 
+	private IUserService userService;
+
+	@Override
+	public String checkUrl() {
+			return "Welcome to Um_Application.";
+	} 
 
 }
