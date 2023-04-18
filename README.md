@@ -15,4 +15,5 @@ Contents Of the Application
 9. security.
 10. Email Functionality (Simple mail, mail with template, mail with attachment)
 11. Schedular 
-12. 
+12. Test Cases with junit and mokito.
+13. Make Code Coverage to 100 %
