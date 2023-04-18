@@ -17,3 +17,19 @@ Contents Of the Application
 11. Schedular 
 12. Test Cases with junit and mokito.
 13. Make Code Coverage to 100 %
+14. Generate custom number with hibernate sequence.
+15. Swagger Configurations.
+16. Rest API:
+	- check Rest Controller.
+	- Get All Records.
+	- Create One Records
+	- Get One Record.
+	- create Multiple Records.
+	- delete One Record.
+	- Delete All Records.
+	- Clone a record.
+	- Import records.
+	- export in Records.
+	- Get Last Updated Record from the Audited Table for one record.
+	- get All records updated with the last entry of the audit table.
+	- create the deleted record from the audit table
